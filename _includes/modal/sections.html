@@ -19,7 +19,11 @@
           </div>
           <div class="modal__content text--center content-spacing">
             <h3 class="title title--md title--core">{{item.title}}</h3>
-            <p>{{item.description}}</p>
+            {% if item.description-html %}
+              {{item.description-html}}
+            {% else %}
+              <p>{{item.description}}</p>
+            {% endif %}
             <div class="space--sm"></div>
             <a href="{{item.link}}" class="btn btn--sm btn--outline btn--outline-turquoise">Find Out More</a>
           </div>

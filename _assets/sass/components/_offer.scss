@@ -100,11 +100,12 @@ $offer-max-width: 560px;
       height: $circle-height;
       margin-left: $s-6;
       text-align: center;
-      color: $turquoise;
-      font-weight: 700;
+      color: $grey-darker;
+      font-size: $s1;
+      font-weight: 600;
       letter-spacing: 0;
       line-height: $circle-height;
-      border: 1px solid rgba($turquoise,.40);
+      border: 1px solid rgba($grey-darker,.2);
       border-radius: $circle-height;
     }
   }

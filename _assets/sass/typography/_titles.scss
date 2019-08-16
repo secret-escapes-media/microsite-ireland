@@ -48,4 +48,13 @@
   font-size: $s8;
   @include bp($md){ font-size: $s10; }
   @include bp($xl){ font-size: $s12; }
+  &--sub {
+    font-family: $sans;
+    line-height: 1.4;
+    font-size: $s3;
+    font-weight: 600;
+    @include bp($lg){
+      font-size: $s4;
+    }
+  }
 }

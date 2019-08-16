@@ -6,7 +6,9 @@ nav-order: 1
 title: Ireland
 
 banner:
-  attribution: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+  title-sup:
+  title: Ireland
+  title-sub: Think you know Ireland? Think again.
 
 primary-cta:
   label: See All Offers

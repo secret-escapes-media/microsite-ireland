@@ -1,18 +1,18 @@
 .btn {
   position: relative;
   display: inline-block;
-  padding: $s1 $s4;
+  padding: $s0 $s4;
   color: $white;
   font-weight: 700;
-  font-size: $s-1;
+  font-size: 13px;
   text-align: center;
   text-transform: uppercase;
-  letter-spacing: .2em;
+  letter-spacing: .1em;
   border-radius: 3px;
   cursor: pointer;
   @include transition;
-  &--sm { padding: $s0 $s3; font-size: $s-2; }
-  &--lg { padding: $s2 $s6; font-size: $s-1; }
+  &--sm { padding: $s-1 $s3; font-size: 12px; }
+  &--lg { padding: $s1 $s5; font-size: 14px; }
   &--orange { background-color: $orange;
     &:hover { background-color: $orange-dark; }
   }
@@ -50,5 +50,36 @@
       background-color: $turquoise;
       &:before { border-color: $turquoise; }
     }
+  }
+}
+
+.link {
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 15px;
+  margin-top: 1.5em;
+  color: $grey-darkest;
+  display: inline;
+  border-bottom: 2px solid transparent;
+  &:hover {
+    text-decoration: none;
+    border-bottom: 2px solid $turquoise;
+  }
+  &--arrow:after {
+    content: "";
+    background-image: url("../img/icons/link-arrow.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: -2px;
+    width: 16px; height: 16px;
+    @include transition;
+  }
+  &--arrow:hover { border: 0; }
+  &--arrow:hover:after {
+    margin-left: 16px;
   }
 }
