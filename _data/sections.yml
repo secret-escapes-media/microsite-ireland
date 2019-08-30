@@ -1,9 +1,9 @@
 - id: dublin
   title: Dublin
   description: >
-    <p class="text--xxl text--medium">Ireland’s capital is a sprawling hub of energy, creativity and old&#8209;school cool. </p>
-    <p class="text--xl">Across the Ha'penny Bridge, the streets buzz with excitement – alight for good, honest, Irish craic. Trad folk music echoes from a lengthy (and equally legendary) procession of pubs, cosy, inviting, and filled with smiling faces; Dubliners are an affable bunch, who relish chatting to visitors. Amongst pretty Georgian townhouses, riverside walks, grand revivalist college buildings and cobbled streets, there’s a character to the city. Between hearty Irish eats and indie street-food hangouts, a stout and singalong or cocktail with a view, Dublin’s repertoire is a diverse one; should you feel you need more, one of the city’s true beauties is its proximity to gorgeous outdoor destinations. Nestled between mountains and sea, a half-hour train can whisk you to beautiful seaside towns before returning to the electric draw of this spirited city. </p>
-  link: "#section-link"
+    <p class="text--xxl text--medium">Ireland’s most renowned city is a sprawling hub of energy, creativity and old&#8209;school cool.</p>
+    <p class="text--xl">Across the Ha'penny Bridge, the streets buzz with excitement – alight for good, honest, Irish craic. Trad folk music echoes from a lengthy (and equally legendary) procession of pubs, cosy, inviting, and filled with smiling faces; Dubliners are an affable bunch, who relish chatting to visitors. Amongst pretty Georgian townhouses, riverside walks, grand revivalist college buildings and cobbled streets, there’s a character to the city – one you can get to know in well under two hours from all UK airports. Between hearty Irish eats and indie street-food hangouts, a stout and singalong or cocktail with a view, Dublin’s repertoire is a diverse one; should you feel you need more, one of the city’s true beauties is its proximity to gorgeous outdoor destinations. Nestled between mountains and sea, a half-hour train can whisk you to beautiful seaside towns before returning to the electric draw of this spirited city. </p>
+  link: "#offers"
 
   pois:
     items:
@@ -11,28 +11,23 @@
       - id: literary-pub-crawl
         title: Literary Pub Crawl
         description-html: >
-          <p>It’s one thing embarking on a pub crawl in Dublin; quite another to do so under the proviso of checking-in at the city’s literary haunts.</p>
-          <p>Drinking with Joyce, Yeats, Wilde – well, the whole affair is now simply far more sophisticated. The Brazen Head, Dublin’s oldest pub and filled with centuries of radical history, was supposedly Jonathan Swift’s favourite haunt; his irreverent satire probably made for excellent pub chat. Next, in the footsteps of Joyce’s Ulysses protagonist Leopold Bloom, off to Davy Byrne’s. Joyce drank here, with the place full on Bloomsday – gorgonzola sarnies and burgundy all round. Neary’s was a second home to poet and playwright Brendan Behan in the 50s, alongside modernist novelist Flann O’Brien. The latter could also be caught in Oliver St John Gogarty, drinking with fellow poet Patrick Kavanagh. Naturally, both would also frequent Palace Bar, alongside Brendan Behan and others. A last tipple before a tipsy walk to bed; Toner’s beckons. Yeats was no fan of pubs, but Toner’s was clearly to his liking as he often stopped by for a sherry; Bram Stoker of Dracula fame was also a stalwart regular. The dark wood interior and heavy stone floor makes Toner’s an irresistible boozer for a swift pint. </p>
-        link: "#poi-link"
-        image-credit: "<a href=\"https://www.istockphoto.com/gb/photo/the-brazen-head-gm1151750208-312225778\">Photo</a> by Derick Hudson / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+          <p>It’s one thing embarking on a pub crawl in Dublin; quite another to do so under the proviso of checking-in at the city’s literary haunts. Sharing a whiskey with Joyce, Yeats, Wilde – well, the whole affair is now simply far more sophisticated. The Brazen Head, Dublin’s oldest pub and filled with centuries of radical history, was supposedly Jonathan Swift’s favourite haunt; his irreverent satire probably made for excellent pub chat. Next, in the footsteps of Joyce’s Ulysses protagonist Leopold Bloom, off to Davy Byrne’s. Joyce drank here, with the place full on Bloomsday – gorgonzola sarnies and burgundy all round. Neary’s was a second home to poet and playwright Brendan Behan in the 50s, alongside modernist novelist Flann O’Brien. The latter could also be caught in Oliver St John Gogarty, drinking with fellow poet Patrick Kavanagh. Naturally, both would also frequent Palace Bar, alongside Brendan Behan and others. A last tipple before a tipsy walk to bed; Toner’s beckons. Yeats was no fan of pubs, but Toner’s was clearly to his liking as he often stopped by for a sherry; Bram Stoker of Dracula fame was also a stalwart regular. The dark wood interior and heavy stone floor makes Toner’s an irresistible boozer for a swift pint.</p>
+        link: "#offers"
 
       - id: old-dublin
         title: Old Dublin
-        description: Dublin is brimming with stories that stretch back centuries. Start at the grand Georgian hulk of Trinity College and make for the Old Library. The Long Room is a breathtaking architectural ode to learning, a vast, cavernous space that holds, in towering shelves, the oldest of the library’s treasures. Here, you’ll catch a fleeting glimpse at the 9th-century Book of Kells, one of the most important medieval manuscripts in the world. For a further glance into Ireland’s past, don’t miss the National Museum; specifically the Archaeology Museum. Magnificent gold hordes and Viking relics await, but stretching back even further are some remarkably macabre bog bodies; dating from the Iron Age, their incredibly preserved remains whisper stories of kingship and feuds from millenia ago. If you like that kind of gruesome thing, do not miss the crypt at St. Michan’s Church. Here, mummies spill from their rotting coffins. Meet the 800-year-old crusader ready to shake your hand, the man with no hands, and the nun. Bram Stoker visited as a child and, well, the connection is pretty plain. Morbid fascinations aside, the rest of Dublin continues to share its past. From the famous Guinness Brewery to the story if Irish independence at the Kilmainham Gaol, don’t miss your view into Dublin’s past.
-        link: "#poi-link"
-        image-credit: "<a href=\"https://www.istockphoto.com/gb/photo/old-library-gm157382617-7288728\">Photo</a> by clu / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: Dublin is brimming with stories that stretch back centuries. Start at the grand Georgian hulk of Trinity College and make for the Old Library. The Long Room is a breathtaking architectural ode to learning, a vast, cavernous space that holds, in towering shelves, the oldest of the library’s treasures. Here, you’ll catch a fleeting glimpse at the 9th-century Book of Kells, one of the most important medieval manuscripts in the world. For a further glance into Ireland’s past, don’t miss the National Museum; specifically the Archaeology Museum. Magnificent gold hordes and Viking relics await, but stretching back even further are some remarkably macabre bog bodies; dating from the Iron Age, their incredibly preserved remains whisper stories of kingship and feuds from millenia ago. If you like that kind of gruesome thing, do not miss the crypt at St. Michan’s Church. Here, mummies spill from their rotting coffins. Meet the 800-year-old crusader ready to shake your hand, the man with no hands, and the nun. Bram Stoker visited as a child and, well, the connection is pretty plain. Morbid fascinations aside, the rest of Dublin continues to share its past. From the famous Guinness Brewery to the story of Irish independence at the Kilmainham Gaol, don’t miss your view into Dublin’s past.
+        link: "#offers"
 
       - id: whats-for-tea
         title: What’s for tea?
         description: The city’s dining scene is thriving. Even traditional Irish dishes have enjoyed a renaissance of late; creative chefs are reinventing the flavours of the land with contemporary flourishes, at lauded restaurants like The Pig’s Ear, Forest & Marcy and more. Just like the city itself, the food scene is equally diverse; around Camden Street you’ll find a cheaper selection of foodie hotspots, from hot Asian cool at Neon (with self-pour whippy machine to finish) and eclectic (bargain) dishes at Green 19, to middle-eastern favourites and brunch spots galore. If that hasn’t stumped your appetite, don’t miss an afternoon of perusing the Temple Bar Food Market.
-        link: "#poi-link"
-        image-credit: #"<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        link: "#offers"
 
       - id: destination-dart
         title: Destination DART
         description: One thing that never fails to impress is how well-rounded a trip to Dublin can be. Hopping on the local DART trains can whisk you off to the most beautiful coastal destinations, a stone’s throw from the city’s bustling centre. Head along the coast and find treasures at Blackrock Market, or make for the beach at Killiney, with gorgeous views from the train to boot. Dalkey is nearby, a wonderfully charming spot that remains a favourite of a-list celebs and savvy travellers. Howth is equally as pretty, with a fishing heritage that translates to the dining table, plus irresistible walking trails to while away the afternoons. And that’s just the start; the coastline and mountains around Dublin are fantastic for exploring, with most train journeys just over a half hour.
-        link: "#poi-link"
-        image-credit: "<a href=\"https://www.istockphoto.com/gb/photo/coast-and-beach-of-the-irish-sea-by-bray-near-dublin-gm955767732-260950855\">Photo</a> by StreetFlash / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        link: "#offers"
 
 
 
@@ -44,36 +39,32 @@
   title: City Escapes
   description: >
     <p class="text--xl">You may have discovered the delights of Dublin, but you haven’t even scratched the surface.</p>
-    <p class="text--xl">Ireland’s city escapes are unmissable; each city is fiercely unique, and the pride that locals share in each is infectious. From bohemian Galway to cool Cork, there’s a network of buzzing urban getaways to explore. Get down with locals in vibrant markets, meet colourful characters in charming pubs, and gorge yourself in a stupendously good foodie scene. What’s more, Ireland’s cities are never far from truly gorgeous outdoor scenes, allowing you to craft an escape that offers more than you would expect.  </p>
+    <p class="text--xl">Ireland’s city escapes are unmissable; each city is fiercely unique, and the pride that locals share in each is infectious. From bohemian Galway to cool Cork, there’s a network of buzzing urban getaways to explore. Get down with locals in vibrant markets, meet colourful characters in charming pubs, and gorge yourself in a stupendously good foodie scene. What’s more, Ireland’s cities are never far from truly gorgeous outdoor scenes, allowing you to craft an escape that offers more than you would expect – all reachable in a few hours from the UK.</p>
 
-  link: "#section-link"
+  link: "#offers"
 
   pois:
     items:
 
       - id: belfast
         title: Belfast
-        description: Titanic City is a lively hub that effortlessly mixes Victorian pomp, industrial edge and contemporary cool. A city of characters, its quarters each take on different personalities; the red-brick and cobbles of the Cathedral Quarter, the post-industrial, cultural revival of the Titanic Quarter and the drinks and dining scene of the trendy Linen Quarter – the list goes on. Yet its walkable size and friendly demeanour belies its urban spread; almost like a village, Belfast is good craic as well as multifaceted. It’s also dead cheap, there’s no need for euros, and itineraries can easily be filled with exquisite restaurants, a host of galleries and museums (obviously not missing the titanic Titanic Museum), buzzing music scene and much, much more.
-        link: "#poi-link"
-        image-credit: "<a href=\"https://www.istockphoto.com/gb/photo/belfast-city-hall-gm619527766-108059561\">Photo</a> by benkrut / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: The Titanic City is a lively hub that effortlessly mixes Victorian pomp, industrial edge and contemporary cool. A city of characters, its quarters each take on different personalities; the red-brick and cobbles of the Cathedral Quarter, the post-industrial, cultural revival of the Titanic Quarter and the drinks and dining scene of the trendy Linen Quarter – the list goes on. Yet its walkable size and friendly demeanour belies its urban spread; almost like a village, Belfast is good craic as well as multifaceted. It’s also wonderfully affordable, there’s no need for euros, and itineraries can easily be filled with exquisite restaurants, a host of galleries and museums (obviously not missing the titanic Titanic Museum), buzzing music scene and much, much more.
+        link: "#offers"
 
       - id: cork
         title: Cork
-        description: Cosmopolitan Cork is hip, youthful, cool – but never loses sight of its heritage, its charming boozers and old cobbled alleys. The locals are immensely proud of the city, possibly the best sign that the place is worth visiting. Artisan coffee hangouts rub shoulder to shoulder with homely pubs, a truly exquisite dining scene complements the famed English Market. History pokes its head around most street corners, from ancient churches to vast forts, with cultural treasures hiding in a network of galleries and DIY art spaces. Cork is more than just a set of things to see and do; it's a spirit, an atmosphere, a friday night in the Mutton Lane Inn and good craic with enthusiastic locals.
-        link: "#poi-link"
-        image-credit: "<a href=\"https://www.istockphoto.com/gb/photo/cork-cityscape-gm1051833300-281224900\">Photo</a> by no_limit_pictures / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: Cosmopolitan Cork is hip, youthful, cool – but never loses sight of its heritage, its charming pubs and old cobbled alleys. The locals are immensely proud of the city, possibly the best sign that the place is worth visiting. Artisan coffee hangouts rub shoulder to shoulder with homely pubs, a truly exquisite dining scene complements the famed English Market. History pokes its head around most street corners, from ancient churches to vast forts, with cultural treasures hiding in a network of galleries and DIY art spaces. Cork is more than just a set of things to see and do; it's a spirit, an atmosphere, a friday night in the Mutton Lane Inn and good craic with enthusiastic locals.
+        link: "#offers"
 
       - id: galway
         title: Galway
-        description: Galway City is a quirky, wonderfully bohemian outpost on the wild Atlantic coast. Buskers and artists line the streets, where al fresco drinking and dining adds to the social buzz of the city. Pubs are brightly painted, calling cards for community revelry, where a warm welcome and live music are a given. There’s seemingly no end to the festivities here; Thick medieval walls interrupt buildings on the high street and foodie treats from the sea and river fill restaurants and chippies. Don’t miss the famous oysters from Salthill on Galway Bay.
-        link: "#poi-link"
-        image-credit: "<a href=\"https://www.istockphoto.com/gb/photo/old-street-decorated-with-lights-and-full-moon-gm122703883-11529968\">Photo</a> by rihardzz / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: Galway City is a quirky, wonderfully bohemian outpost on the wild Atlantic coast. Buskers and artists line the streets, where al fresco drinking and dining adds to the social buzz of the city. Pubs are brightly painted, calling cards for community revelry, where a warm welcome and live music are a given. There’s seemingly no end to the festivities here; Thick medieval walls interrupt buildings on the high street and foodie treats from the sea and river fill restaurants and chip shops with the freshest catches. Don’t miss the famous oysters from Salthill on Galway Bay.
+        link: "#offers"
 
-      - id: limerick
-        title: Limerick
-        description: Sat on the banks of the river Shannon, Limerick is an ancient and culturally-rich city filled with unique charms. Georgian townhouses and grand museums set a classy tone, with the imposing walls of old King John’s Castle hinting at Limerick’s long, and turbulent, history. The art scene is equally as impressive, with works of international renown hanging in the Hunt Museum and Limerick City Gallery of Art. Local life centres around the Milk Market, a buzzing space where delicious foodie treats lure you in, artisans abound, and the energy and excitement of the city are palpable. If you’re serious about shopping, nearby Fox’s Bow is filled with local craft stores offering handmade and wonderfully unique gifts. At the pub, you’ll quickly notice that rugby is massive here. Sport is that other lifeblood for locals, and nothing quite beats catching a game with a pint of stout in front of you.
-        link: "#poi-link"
-        image-credit: "<a href=\"https://www.istockphoto.com/gb/photo/limerick-gm1044936938-279662334\">Photo</a> by Carmen Romero / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+      - id: kilkenny
+        title: Kilkenny
+        description: Kilkenny is a city of endless charm, beautifully historic, affable, and picturesque. Its old centre, centred around the Medieval Mile, is all cobbled streets and secret passageways, a warren of cosy pubs and a crafts and arts scene battling with ancient churches and castles for your attention. The imposing Norman castle and its beautiful gardens are a good place to start, before exploring the mile – where trad folk buzzes from pubs and alleys hide quaint craft shops – and finishing at St Canice’s. This old cathedral shares whispers of witchcraft, decades of history and historically poignant graves. The tower is a must climb – the experience is unique, the inside incredibly narrow and the summit vertigo-inducing. But the views across the pretty river and medieval heart of Kilkenny are unmissable.
+        link: "#offers"
 
 
 
@@ -85,41 +76,38 @@
   title: Wild Atlantic Way
   description: >
     <p class="text--xl">This is the ultimate road trip; unrivalled beauty, drama, and unforgettable experiences await.</p>
-    <p class="text--xl">There are around 1,500 miles of Atlantic Way. Hugging the eastern coastline, undulating and darting between dramatic cliffs and fierce waves, any trip along the coastal route promises a raw and wild taste of Ireland. Sheltered bays and irresistable fishing villages offer warm invitations, the route to which treats any traveller with some of the most dramatic and soul-stirring sights one can imagine.</p>
+    <p class="text--xl">There are around 1,500 miles of Atlantic Way. Hugging the eastern coastline, undulating and darting between dramatic cliffs and fierce waves, any trip along the coastal route promises a raw and wild taste of Ireland – choose your section and the rewards are great. Sheltered bays and irresistable fishing villages offer warm invitations, the route to which treats any traveller with some of the most dramatic and soul-stirring sights one can imagine.</p>
 
-  link: "#section-link"
+  link: "#offers"
 
   pois:
     items:
 
-      - id: northern-headlands-to-surf-coast
-        title: Northern Headlands to Surf Coast
-        description-html: >
-          <p>The wild northern coast is possibly one of the most romantic sections of the wild Atlantic way. Craggy, remote, windswept and wave battered, it's a dramatic sight that fires any visitor’s sense of adventure. Here, locals speak Irish in a thick accent, with traditional music alive in every faraway pub. Malin Head offers rare glimpses at the Northern Lights, stone-age forts and pretty harbours, before Fanad Head exposes gorgeous beaches, romantic castles and herds of seals. Further south the cliffs punch higher, forming some of the best and highest in Europe. The Slieve League Cliffs afford incredible Atlantic views, with the Sligo Mountains looming behind. </p>
-          <p>Surf Coast stretches across Donegal, through Sligo, to Mayo. The coastline drops to long beaches, with the restless Atlantic creating truly enticing waves for surfers. Mullaghmore Head is renowned for its big wave surfing, but beyond the beach sports you can explore 6th century Monastic ruins, gothic castles and the much mythologised Ben Bulben mountain.  Sea stacks and craggy headlands lie at Downpatrick Head, with the ruins of a church marking the site of an earlier church founded by Saint Patrick no less. Don’t miss Sligo’s Yeats connection, as a landscape that inspired the young poet with its natural beauty. </p>
-        link: "#poi-link"
-        image-credit: "<a href=\"https://www.istockphoto.com/gb/photo/cliffs-of-slieve-in-county-donegal-ireland-gm179772773-26796591\">Photo</a> by Bart_Kowski / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+      - id: foodie-treats
+        title: Foodie Treats
+        description: Indulge in the deliciousness of Ireland’s coastal larder. Dip in and out of small fishing villages, feasting on the catch of the day and meeting the makers that turn coastal produce into artisanal treats. In Donegal, try Atlantic smoked salmon at The Haven Smokehouse, before heading further south to taste Sligo’s renowned oyster heritage at Wild Atlantic Oysters. In Mayo, go for a guided forage on Killala Bay, with your finds spun into a delicious feast as the sun sets. Get glam in Galway at esteemed Michelin restaurants like Aniar, or head along the craggy cliff coast and stop at stalwart lobster spot Linnane’s, where 300 years of service offer heritage-filled tastes after exploring the moon-like Burren. Toward the southern tip of the Atlantic Way, perk up your afternoon with a traditional Irish coffee, in the home of the famed drink, Limerick. And that’s just the tasting menu; there’s hundreds of foodie spots nestled along this beguiling coastline.
+        link: "#offers"
 
-      - id: bay-coast
-        title: Bay Coast
-        description: A wonderful collection of long bays typifies this stretch of coastline. Starting at cliff-flanked Keem Strand on the island of Achill, secluded crescent shapes frame your adventures. Fishing and kayaking are popular at this remote spot, before further exploration will take you to the epic expanse of Clew Bay. Take a cruise here and spot a colony of seals, whilst navigating the endless islets and islands that dot the water here. The landscape becomes even more dramatic at Killary Fjord in the heart of Connemara, where the waters are great for dolphin spotting. The mussels here are some of the best in Ireland, with foodie festivals to boot. As you head further south, a patchwork of peat bogs and pools mark the beginning of Derrigimlagh Bog. It’s a strange landscape, criss-crossed with trails that soak up the unique views that the area affords. Don’t miss the spot where a precarious, bog-destined landing marked the end of the world’s first transatlantic flight. Out to sea, the beautiful Aran Islands can be visited by boat.
+      - id: soul-stirring-sights
+        title: Soul-stirring Sights
+        description: >
+          <p>The wild northern coast is possibly one of the most romantic sections of the wild Atlantic way. Malin Head offers rare glimpses at the Northern Lights, stone-age forts and pretty harbours, before Fanad Head exposes gorgeous beaches, romantic castles and herds of seals. Further south the cliffs punch higher, forming some of the best and highest in Europe. The Slieve League Cliffs afford incredible Atlantic views, with the Sligo Mountains looming behind. Mullaghmore Head is renowned for its big wave surfing, but beyond the beach sports you can explore 6th century Monastic ruins, gothic castles and the much mythologised Ben Bulben mountain. Dramatic cliffs fall to turbulent waves, with clifftop hiking trails taking in the wild beauty of the edge of Ireland. Even more drama awaits at the Cliffs of Moher, where the trails tower above the crashing sea.</p>
+          <p>From gargantuan geology to lunar landscapes at Burren, on to Loop Head, which promises some truly gorgeous coastal roads. Follow the sound of crashing waves and head to the tip of the peninsula, where the old lighthouse and surrounding waters give the impression you’ve reached the end of Ireland. In the Southern Peninsulas, the ethereal remains of Skellig Michael are one of Ireland’s most prized archaeological sites. The 6th century ruins cling to fierce rocky outcrops, painting a truly captivating scene. Before you reach the craggy beauty of Mizen Head, don’t miss Ireland’s only cable car at Dursey Island; this is your chance to soar above the crashing waves. It’s also the only way to get to the island, populated by just three farming families. It doesn’t get as remote as that.</p>
+        link: "#offers"
 
-        link: "#poi-link"
-        image-credit: "<a href=\"https://www.istockphoto.com/gb/photo/keem-beach-achill-island-ireland-gm508710744-85415895\">Photo</a> by siims / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+      - id: wild-adventures
+        title: Wild Adventures
+        description: A coastline this dramatic is, typically, a playground for those with a penchant for adventure. Sheer cliffs and windswept beaches, turbulent waves and intrepid trails – it’s all there, waiting for a brave soul to explore. One of the best ways to get that adrenaline fix with minimum experience is by coasteering on Clare Island. It’s a wonderfully physical way to explore the cliffs, a mixture of climbing, diving and wild swimming. Clamber up sea stacks, jump from their heady heights, navigate tricky cliff faces and discover enchanting sea caves. For those with a little more expertise, the climbing around Dunshean Head near Dingle is truly exhilarating. The most striking sea stack, aptly named the Needle, features one particularly challenging, vertiginous climb. With the roaring sea underneath, it’s a uniquely Atlantic experience. Beyond these cliffside challenges, you can take life at a steadier pace. Seak kayaking is popular along much of the coastline, and on dry land trails provide ample challenge for a spot of mountain biking – the lunar Burren being the finer example. Choose your adventure on the Wild Atlantic Way.
+        link: "#offers"
 
-      - id: cliff-coast
-        title: Cliff Coast
-        description: This ancient landscape offers views that stir the soul. Dramatic cliffs fall to turbulent waves, with clifftop hiking trails taking in the wild beauty of the edge of Ireland. Away from the cliffs, the affable village of Doolin makes for a great stop. Known as the home of Irish trad music, a trio of pubs sing with the sound of Irish folk. Stay for the night, because nothing beats propping up the bar with a stout and throwing yourself into this uniquely Irish atmosphere. Around the village, clifftop trails wind along the coast. In the distance, the Aran Islands sit on the horizon. A boat leaves Doolin for these remote crags and a visit promises beguiling walks and views, pocked with thousands of years of history. The Cliffs of Moher are the most renowned place for a hike, where the trails tower above the crashing sea. After a stop-off at the moon-like landscape of the Burren, Loop Head promises some truly gorgeous coastal roads.Follow the sound of crashing waves and head to the tip of the peninsula, where the old lighthouse and surrounding waters give the impression you’ve reached the end of Ireland.
-        link: "#poi-link"
-        image-credit: "<a href=\"https://www.istockphoto.com/gb/photo/aerial-view-of-the-scenic-cliffs-of-moher-in-ireland-gm1027350536-275455911\">Photo</a> by miroslav_1 / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+      - id: coastal-culture
+        title: Coastal Culture
+        description: >
+          <p>There’s a wealth of uniquely Irish culture to tap into as you glide along this wild coastline; eccentric, revelrous and hospitable. A good place to start is the hub of any community: the local pub. In these cosy spots you can try and unpick the nuances of Irish trad. In Donegal, listen out for the simple acapella melodies of sean nós and the historic fiddle traditions of the town. In Sligo, you’ll hear more flute and a pace married more to following dancers. Spoil the senses in Galway, where music booms from bars and buskers, and the art scene is positively buzzing. As you head further south still too, you’ll notice the fiddle sounds change, become more elongated and soft. Pick up these subtleties and you’ll be a trad expert in no time!</p>
+          <p>Beyond music, the Atlantic Way has also inspired its fair share of artists and writers – most famously, the poetry of Yeats. Sligo is home to the landscapes that inspired him most at a young age – pick up a collection of his poetry before you set off on your hike.</p>
+        link: "#offers"
 
-      - id: southern-peninsulas-to-haven-coast
-        title: Southern Peninsulas to Haven Coast
-        description-html: >
-          <p>Here start the five peninsulas of southern Ireland. From Dingle down to Mizen, each offers remote and romantic escape, where beguiling panorama distracts you from a burgeoning local foodie scene, ancient history and quaint village life. Seafood riches await at Dingle, a perfect finisher after a horseback gallop down the beach at Rossbeigh. Across to the next peninsula, the ethereal remains of Skellig Michael are one of Ireland’s most prized archaeological sites. The 6th century monastic ruins are, naturally, incredible, but they’re matched perfectly to the views across the sea that their position affords. Before you reach the craggy beauty of Mizen Head, don’t miss Ireland’s only cable car at Dursey Island; this is your chance to soar above the crashing waves. It’s also the only way to get to the island, and rather hilariously, locals get first dibs in the queues. Imagine that as a daily commute! </p>
-          <p>Haven Coast marks the final hoorah of the wild Atlantic Way. It’s a perfect place to unwind, with whale watching and sea kayaking set to complete your adventure. A boat trip around Kinsale is an unmissable attraction, taking in the Old Head of Kinsale and its lighthouse, before winding back into town. Time it right and you can explore the Gourmet Food Festival, packed with the finest local treats.</p>
-        link: "#poi-link"
-        image-credit: "<a href=\"https://www.istockphoto.com/gb/photo/dingle-town-ireland-gm1039908460-278401766\">Photo</a> by bkkm / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
 
 
 
@@ -132,7 +120,7 @@
   description: >
     <p class="text--xl">Think you’ve ‘done’ Ireland? Think again… </p>
     <p class="text--xl">Discover an Ireland known to locals, off-the-beaten-track, at times remote, at times joyously convivial. Because there’s always something more to see, something new to taste, new people to meet and one more road to explore. Experience an Ireland beyond the obvious, where inviting characters leave you with fond memories, and Ireland’s stories stay with you for eternity. </p>
-  link: "#section-link"
+  link: "#offers"
 
   pois:
     items:
@@ -140,24 +128,19 @@
       - id: irelands-ancient-east
         title: Ireland’s Ancient East
         description: Discover the stories of Ireland’s east. Stretching back thousands of years, you can hear whispers of Vikings in Waterford, or gaze at the gothic turrets of Tipperary’s romantic Rock of Cashel. Ireland’s spiritual side is no better illustrated than at a collection of ancient monastic sites; the ruins of 6th century Clonmacnoise stand testament to the Golden Age of learning, with renowned manuscripts heralding from this remote monastic town. Arguably more impressive is Glendalough, which spills across a wooded hillside striking a rather ethereal tone. This great 6th-century monastic settlement is one of Ireland’s most important. Travel even further back in time – 5,000 years to be exact – and discover the stone-age passage tomb at Newgrange. This monolithic burial mound hides some remarkable curios; its astrological alignment is significant, but the best trick is during the winter solstice, when the dark passageway is set alight by the low-slung sun. Road-trip routes criss-cross this part of Ireland; from castles to coastline, there’s a wealth of stories to discover.
-        link: "#poi-link"
-        image-credit: "<a href=\"https://www.istockphoto.com/gb/photo/newgrange-entrance-gm185407062-1895039\">Photo</a> by matejphoto / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        link: "#offers"
 
       - id: causeway-coastal-route
         title: Causeway Coastal Route
         description: "The magnificent northern reaches promise spectacular coastal exploits, as you skip between pretty coastal villages and discover beautiful natural wonders. Between Derry~Londonderry and Belfast, embark on a road trip that takes in the best of Northern Ireland’s wild outdoors; first up, The Gobbins Cliff Path. Suspended walkways see you trek next to the cliff face, offering glimpses at smugglers’ caves and quiet coves. Further along the coast, the romantic ruins of Dunluce Castle perch precariously on the headland. So precarious in fact, that the place was abandoned after part of the kitchen fell into the sea – ambitious to say the least. For a taste of proper Irish whiskey, stop off at the Old Bushmills Distillery, the country’s oldest working distillery. With your head a little lighter from that dram, the perfect opportunity to tackle the Carrick-A-Rede rope bridge presents itself. Slung between two crags, it’s a heady endeavour; but unmissable, nonetheless. And now for the routes namesake: the Giant’s Causeway. An Irish icon, the hexagonal steps are a sight to behold. Filled with myths and legends, it’s the perfect finish to an adventure along Northern Ireland’s beguiling coastline. "
-        link: "#poi-link"
-        image-credit: "<a href=\"https://www.istockphoto.com/gb/photo/sunset-over-giants-causeway-northern-ireland-gm987378554-267778144\">Photo</a> by DieterMeyrl / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        link: "#offers"
 
       - id: taste-the-island
         title: Taste the Island
-        description: Ireland is a gourmet paradise, packed with foodie delights that range from comfortingly traditional to boundary-pushing deliciousness. You can see first-hand how passionate locals are about their country’s natural larder, at a string of buzzing farmers’ markets like Naas Farmers’ Market in County Kildare, Tyrone market in Dungannon, Dungarvan in County Waterford and more. Foodie experiences are also springing up across the country; head to County Kerry and take a gourmet fishing trip into the wild Atlantic, dining on ceviche and sashimi on remote islands off the coast. Back in the cities, Irish classics are popping up in smart new restaurants, prepared with contemporary flair, alongside diverse offerings in street food markets like in Galway, Dublin or Cork. An impressive roster of food festivals, like Cork’s Oyster & Seafood Festival or Dublin’s Vegetarian Festival, are worth planning your breaks around. Lastly, stout and whiskey. Brewery and distillery tours and tastings abound; sláinte mhaith!
-
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: Ireland is a gourmet paradise, packed with foodie delights that range from comfortingly traditional to boundary-pushing deliciousness. You can see first-hand how passionate locals are about their country’s natural larder, at a string of buzzing farmers’ markets like Naas Farmers’ Market in County Kildare, Tyrone market in Dungannon, Dungarvan in County Waterford and more. Foodie experiences are also springing up across the country; head to County Kerry and take a gourmet fishing trip into the wild Atlantic, dining on ceviche and sashimi on remote islands off the coast. Back in the cities, Irish classics are popping up in smart new restaurants, prepared with contemporary flair, alongside diverse offerings in street food markets like in Galway, Dublin or Cork. An impressive roster of food festivals, like Galway’s Oyster & Seafood Festival or Dublin’s Vegetarian Festival, are worth planning your breaks around. Lastly, stout and whiskey. Brewery and distillery tours and tastings abound; sláinte mhaith!
+        link: "#offers"
 
       - id: for-experienced-travellers
         title: For Experienced Travellers
-        description: Politically-charged murals in Derry~Londonderry, St Patrick connections in Armagh City and riverside beauty in Kilkenny – there’s so much to discover in Ireland’s local hubs. For artisan encounters, check out the crystal making in Waterford, a town which also has a lively events calendar to boot. Lisburn is famed for its linen heritage, with pretty shops and royal gardens adding to its upmarket offerings. Discover picturesque medieval charms in Kilkenny, where turrets and cobbled alleyways impart a special magic to your visit, or breach the grand city walls of Derry~Londonderry. Within, you’ll find cosy pubs, fantastic restaurants and a year-long events calendar that sees the city really come to life.
-        link: "#poi-link"
-        image-credit: "<a href=\"https://www.istockphoto.com/gb/photo/londonderry-northern-ireland-gm629448768-112013603\">Photo</a> by espiegle / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        description: Politically-charged murals in Derry~Londonderry, St Patrick connections in Armagh City and riverside charms in Limerick – there’s so much to discover in Ireland’s local hubs. For artisan encounters, check out the crystal making in Waterford, a town which also has a lively events calendar to boot. Lisburn is famed for its linen heritage, with pretty shops and royal gardens adding to its upmarket offerings. Discover the Milk Market of Limerick, a buzzing space where delicious foodie treats lure you in, artisans abound, and the energy and excitement of the city are palpable, or breach the grand city walls of Derry~Londonderry. Within, you’ll find cosy pubs, fantastic restaurants and a year-long events calendar that sees the city really come to life.
+        link: "#offers"

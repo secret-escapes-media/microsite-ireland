@@ -11,6 +11,6 @@ banner:
   title-sub: Think you know Ireland? Think again.
 
 primary-cta:
-  label: See All Offers
+  label: See Offers
   link: "#offers"
 ---
