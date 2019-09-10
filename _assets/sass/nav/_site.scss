@@ -2,7 +2,7 @@
 
 $site-nav-height:    56px;
 $site-nav-height-sm: 44px;
-$nav-width-bp:       640px;
+$nav-width-bp:       700px;
 $nav-color:          $white;
 
 
@@ -20,6 +20,8 @@ $nav-color:          $white;
   position: relative;
   background-color: rgba($nav-color,.75);
   text-align: center;
+  transition: background-color ease .5s;
+  // transition: 'background-color' 2s ease;
 
   // NEEDS EXPLAINING LIKE THE CORE NAV OFFSET
   &__offset:before {
@@ -28,7 +30,6 @@ $nav-color:          $white;
     display: block;
     @include site-nav-height;
   }
-
 
   &:before {
     // arrow icon prompt for horizontal scroll
@@ -90,11 +91,12 @@ $nav-color:          $white;
     font-weight: 600;
     font-size: 13px;
     letter-spacing: .1em;
+    line-height: 1;
     text-transform: uppercase;
     color: $grey-darker;
-    transition: background-color $transition-time ease;
+    transition: background-color ($transition-time * 3) ease;
     white-space: nowrap;
-    &.is-current      { background-color: rgba($nav-color,1); }
+    &.is-current      { background-color: #e6e6e6; }
     .no-touch &:hover { background-color: rgba($nav-color,1); }
     @include bp($nav-width-bp){
       padding-left: $s0;
@@ -109,7 +111,8 @@ $nav-color:          $white;
     left: 0;
     right: 0;
     bottom: auto;
-    z-index: $z-nav  ;
+    z-index: $z-nav;
+    background-color: rgba($white,.85);
   }
 
 }

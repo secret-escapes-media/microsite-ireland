@@ -17,7 +17,7 @@
           <p>{{site.description}}</p>
           {% if page.primary-cta %}
             <div class="space--sm">
-              <a href="{{page.primary-cta.link}}" class="btn btn--lg btn--outline btn--outline-orange">{{page.primary-cta.label}}</a>
+              <a id="track-intro-btn-offers" href="{{page.primary-cta.link}}" class="btn btn--lg btn--outline btn--outline-orange">{{page.primary-cta.label}}</a>
             </div>
           {% endif %}
         </div>
@@ -39,7 +39,7 @@
                 <div class="title title--xxl">{{section.title}}</div>
                 {{section.description}}
                 <div class="space--sm"></div>
-                <a href="{{section.link}}" class="link link--arrow">See Offers</a>
+                <a id="track-section-{{section.id}}-btn-offers" href="{{section.link}}" class="hyperlink hyperlink--arrow">See Offers</a>
               </div>
               <div class="col">
                 <div class="bg-img bg-img--1-1 bg-img--md-3-2 bg-img--xxl-1-1" style="background-image: url('{{site.img}}/content/{{section.id}}/feature.jpg');">

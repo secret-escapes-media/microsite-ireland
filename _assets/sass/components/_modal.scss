@@ -1,8 +1,8 @@
 .modal {
   $icon-size: 3em;
   position: relative;
-  margin-top: ($icon-size*1.5);
-  margin-bottom: ($icon-size*1.5);
+  margin-top: ($icon-size * 1.5);
+  margin-bottom: ($icon-size * 1.5);
   margin-left: ($icon-size / 2.5);
   margin-right: ($icon-size / 2.5);
   cursor: auto;
@@ -13,7 +13,6 @@
     align-items: center;
     justify-content: center;
     min-height: 100%;
-    margin-bottom: ($icon-size * 6);
   }
   &__bg {
     position: fixed;
@@ -33,7 +32,9 @@
   &__content {
     color: $grey-dark;
     background-color: $white;
-    padding: $s2 $s3;
+    padding: $s2 $s1;
+    @include bp($md) { padding: $s2 $s3; }
+    @include bp($lg) { padding: $s4 $s6; }
   }
   &__close {
     position: absolute;
@@ -57,6 +58,7 @@
     left: auto;
     right: 0;
     bottom: 0;
+    z-index: $z-overlay;
     width: 50%;
     height: $icon-size;
     background-color: rgba($black, .8);
@@ -77,7 +79,7 @@
     @include bp($md) {
       position: absolute;
       z-index: $z-overlay-upper;
-      top: 50%;
+      top: 100%;
       width: $icon-size;
       height: ($icon-size*2);
       margin-top: -($icon-size);
@@ -88,7 +90,7 @@
         right: -($icon-size);
         border-left: 0;
       }
-      &:hover     { background-color: $black; }
+      &:hover { background-color: $black; }
     }
   }
   &--standard { max-width: $xl; }
@@ -118,14 +120,12 @@
     }
   }
   @include bp($md) {
-
     margin-left: $icon-size;
     margin-right: $icon-size;
-    &__wrap { margin-bottom: 0; }
   }
   @include bp($lg){
     &__content {
-      padding: $s4 $s6;
+
     }
   };
 }
