@@ -8,7 +8,7 @@ description: >
   A land of unparalleled beauty, a hotbed of magnificent cultural offerings, a place where you can craft memories to last a lifetime – Ireland is all of this and more. From its buzzing cities to its gorgeous coastal treasures, there’s enough diversity to suit any traveller. Cosy up in a pub in Cork and let traditional Irish music be your soundtrack to meeting friendly locals, tackle the suspended cliffside walkways of the Gobbins Path, or indulge in foodie deliciousness at one of many farmers’ markets. Whether you’re visiting for the first time or the tenth, there’s always something new to discover in Ireland.
 
 # file paths
-url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
+url:     "https://mp.secretescapes.com" # the base hostname & protocol for your site
 baseurl: "/ireland" # the subpath of your site, e.g. /blog/
 img:     "/ireland/_assets/img"
 css:     "/ireland/_assets/css"
