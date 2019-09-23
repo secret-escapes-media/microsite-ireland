@@ -1,21 +1,11 @@
-- title: Bonnington Dublin
-  location: Dublin, Ireland
-  description: Refurbished Dublin hotel with extensive leisure facilities
-  price: 90
-  price-description: per room per night
-  saved: 59
-  expires: 2019/09/17
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/100251/a17ed0a3_f2bb_4c6f_8675_7218f609d4ba.jpg?auto=format,compress
-  link: https://www.secretescapes.com/bonnington-dublin-dublin-ireland/sale
-
 - title: Sheen Falls Lodge
   location: County Kerry, Ireland
   description: Five-star luxury on the fringes of Ireland's Kenmare
-  price: 122
+  price: 135
   price-description: per room per night
-  saved: 50
-  expires: 2019/09/17
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/52941/51a08325_87dd_409e_9eb3_e5f29cfe9c7b.jpg?auto=format,compress
+  saved: 36
+  expires: 2019/10/01
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/52941/eb335e80_f999_4489_ab10_4ffc65ce7f97.jpg?auto=format,compress
   link: https://www.secretescapes.com/sheen-falls-lodge-county-kerry-ireland/sale
 
 - title: Clanree Hotel
@@ -24,7 +14,7 @@
   price: 66
   price-description: per room per night
   saved: 53
-  expires: 2019/09/17
+  expires: 2019/10/01
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/100623/de4ef0f6_4a6b_47df_b507_b9f6e245629c.jpg?auto=format,compress
   link: https://www.secretescapes.com/clanree-hotel-bunnagee-ireland/sale
 
@@ -34,17 +24,17 @@
   price: 68
   price-description: per room per night
   saved: 34
-  expires: 2019/09/17
+  expires: 2019/10/01
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/97996/176161b7_6663_4f75_9941_fd14f6e3dbd9.jpg?auto=format,compress
   link: https://www.secretescapes.com/limerick-city-hotel-limerick-ireland/sale
 
 - title: The Gibson Hotel
   location: Dublin, Ireland
-  description: Stylish base near the Dublin Dockyards
+  description: Stylish base near the Dublin Docklands
   price: 108
   price-description: per room per night
   saved: 49
-  expires: 2019/09/24
+  expires: 2019/10/01
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/90094/a437ff5c_0ac9_4130_aa4f_a455ee9cedaa.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-gibson-hotel-dublin-ireland/sale
 
@@ -54,7 +44,7 @@
   price: 65
   price-description: per room per night
   saved: 44
-  expires: 2019/09/24
+  expires: 2019/10/01
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/94531/5e536fb8_f303_441b_bd6a_792981232b99.jpg?auto=format,compress
   link: https://www.secretescapes.com/radisson-blu-hotel-belfast-belfast-northern-ireland/sale
 
@@ -64,6 +54,26 @@
   price: 90
   price-description: per room per night
   saved: 43
-  expires: 2019/09/24
+  expires: 2019/10/01
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/55587/46a47cc2_c795_4731_b0f4_6e861e9c3dee.jpg?auto=format,compress
   link: https://www.secretescapes.com/ashling-hotel-dublin-ireland/sale
+
+- title: Great Southern Killarney
+  location: Killarney, Ireland
+  description: Irish escape to Killarney’s grandest hotel
+  price: 119
+  price-description: per room per night
+  saved: 30
+  expires: 2019/10/08
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/101824/116d3b49_4261_4621_b195_37e7e10345bf.jpg?auto=format,compress
+  link: https://www.secretescapes.com/great-southern-killarney-kerry-ireland/sale
+
+- title: Hayfield Manor Hotel
+  location: Cork, Ireland
+  description: Cork’s finest five-star manor house hotel
+  price: 155
+  price-description: per room per night
+  saved: 36
+  expires: 2019/10/08
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/101836/6f1619a3_9b49_4173_a9c0_49748f8fc862.jpg?auto=format,compress
+  link: https://www.secretescapes.com/hayfield-manor-hotel-cork-ireland/sale
