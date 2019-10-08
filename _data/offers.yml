@@ -4,8 +4,8 @@
   price: 135
   price-description: per room per night
   saved: 36
-  expires: 2019/10/08
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/52941/0473174d_2c29_4d26_9b80_e62c0f66813c.jpg?auto=format,compress
+  expires: 2019/10/15
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/91073/1f1ffa6a_c1ca_4a23_ab7a_6c8edc0a5d01.jpg?auto=format,compress
   link: https://www.secretescapes.com/sheen-falls-lodge-county-kerry-ireland/sale
 
 - title: Clanree Hotel
@@ -14,19 +14,9 @@
   price: 66
   price-description: per room per night
   saved: 53
-  expires: 2019/10/08
+  expires: 2019/10/15
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/100623/10e8f6f7_5d4e_45b5_a8a1_ec9d1ba7ffca.jpg?auto=format,compress
   link: https://www.secretescapes.com/clanree-hotel-bunnagee-ireland/sale
-
-- title: Limerick City Hotel
-  location: Limerick, Ireland
-  description: Explore Ireland's verdant emerald landscapes from this Limerick base
-  price: 68
-  price-description: per room per night
-  saved: 34
-  expires: 2019/10/08
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/97996/3b883e71_8b2c_4cce_a0ab_94bfa5dacde6.jpg?auto=format,compress
-  link: https://www.secretescapes.com/limerick-city-hotel-limerick-ireland/sale
 
 - title: The Gibson Hotel
   location: Dublin, Ireland
@@ -34,19 +24,9 @@
   price: 108
   price-description: per room per night
   saved: 49
-  expires: 2019/10/08
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/90094/a437ff5c_0ac9_4130_aa4f_a455ee9cedaa.jpg?auto=format,compress
+  expires: 2019/10/15
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/90094/38fa491e_5047_456f_933c_9f769e0c6df2.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-gibson-hotel-dublin-ireland/sale
-
-- title: Radisson Blu Hotel, Belfast
-  location: Belfast, Northern Ireland
-  description: Stylish Belfast riverside stay in the heart of the city
-  price: 65
-  price-description: per room per night
-  saved: 44
-  expires: 2019/10/08
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/94531/5e536fb8_f303_441b_bd6a_792981232b99.jpg?auto=format,compress
-  link: https://www.secretescapes.com/radisson-blu-hotel-belfast-belfast-northern-ireland/sale
 
 - title: Ashling Hotel
   location: Dublin, Ireland
@@ -54,8 +34,8 @@
   price: 90
   price-description: per room per night
   saved: 43
-  expires: 2019/10/08
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/55587/46a47cc2_c795_4731_b0f4_6e861e9c3dee.jpg?auto=format,compress
+  expires: 2019/10/15
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/82788/50877697_ae9e_4a88_9e18_1bf65bf5e281.jpg?auto=format,compress
   link: https://www.secretescapes.com/ashling-hotel-dublin-ireland/sale
 
 - title: Great Southern Killarney
@@ -64,8 +44,8 @@
   price: 119
   price-description: per room per night
   saved: 30
-  expires: 2019/10/08
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/101824/116d3b49_4261_4621_b195_37e7e10345bf.jpg?auto=format,compress
+  expires: 2019/10/15
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/101824/b6a3ebee_94d6_4dea_860f_d94966cfd641.jpg?auto=format,compress
   link: https://www.secretescapes.com/great-southern-killarney-kerry-ireland/sale
 
 - title: Hayfield Manor Hotel
@@ -74,8 +54,8 @@
   price: 155
   price-description: per room per night
   saved: 36
-  expires: 2019/10/08
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/101836/6f1619a3_9b49_4173_a9c0_49748f8fc862.jpg?auto=format,compress
+  expires: 2019/10/15
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/101836/74a73078_5428_4811_b9d4_bea015a24ed2.jpg?auto=format,compress
   link: https://www.secretescapes.com/hayfield-manor-hotel-cork-ireland/sale
 
 - title: Marlin Hotel Dublin
@@ -84,8 +64,8 @@
   price: 149
   price-description: per room per night
   saved: 40
-  expires: 2019/10/08
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/102170/8d509305_c4a0_4ad8_b4a6_1158b5a043c4.jpg?auto=format,compress
+  expires: 2019/10/15
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/102170/d7128d1d_ed05_401f_92f4_b7f46236398d.jpg?auto=format,compress
   link: https://www.secretescapes.com/marlin-hotel-dublin-dublin-ireland/sale
 
 - title: Park Inn by Radisson Belfast
@@ -95,5 +75,5 @@
   price-description: per room per night
   saved: 49
   expires: 2019/10/15
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/102318/0ebdaaf7_3281_42f0_8c80_3521de72fbcb.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/102318/5d699e8b_fbc2_495a_8233_5503cbf54bc9.jpg?auto=format,compress
   link: https://www.secretescapes.com/park-inn-by-radisson-belfast-belfast-northern-ireland/sale
