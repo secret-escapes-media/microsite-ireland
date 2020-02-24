@@ -7,7 +7,7 @@
 <div class="js-modal modal__bg is-closed">
   <div class="modal__wrap">
 
-    {% for section in site.data.sections %}
+    {% for section in page.sections %}
       {% for item in section.pois.items %}
 
         <div class="modal modal--series is-closed" data-modal-id="{{item.id}}" data-modal-group="{{section.id}}">
