@@ -26,7 +26,7 @@ function browserSyncServe() {
     server: {
       baseDir: '_site/',
       routes: {
-        '/ireland': '_site/'
+        '/uk/2020/ireland': '_site/'
       }
     }
   });
