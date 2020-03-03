@@ -4,6 +4,7 @@
   // custom content headline
   font-family: $serif;
   line-height: 1.1;
+  &--xxxxl   { font-size: $s9; }
   &--xxxl   { font-size: $s8; }
   &--xxl    { font-size: $s7; }
   &--xl     { font-size: $s6; }
@@ -14,6 +15,7 @@
   &--xxs    { font-size: $s1; }
   &--xxxs   { font-size: $s0; }
   @include bp($lg){
+    &--xxxxl   { font-size: $s10; }
     &--xxxl   { font-size: $s9; }
     &--xxl    { font-size: $s8; }
     &--xl     { font-size: $s7; }

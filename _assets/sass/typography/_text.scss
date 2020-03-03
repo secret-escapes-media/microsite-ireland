@@ -16,6 +16,8 @@
   &--bolder       { font-weight: 700; }
   &--upper        { text-transform: uppercase; }
 
+  &--wide        { letter-spacing: 0.05em; }
+
   // colours
   &--white { color: $grey-lightest; }
   &--black { color: $grey-dark; }
