@@ -1,7 +1,9 @@
 // general styles for the project that wouldn't be a reuseable component
 
 .pois {
-  align-items: stretch;
+  @include bp($xxl){
+    align-items: stretch;
+  }
 }
 
 .poi {
